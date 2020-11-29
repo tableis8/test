@@ -1,5 +1,4 @@
 // date:17.4.10
-// author: linyang <942510346@qq.com>
 
 
 int exec(unsigned int start)
